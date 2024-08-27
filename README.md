@@ -4,8 +4,8 @@
 #### Content 
 * What is Maven? 
   - [Evolution](what-is-maven/Evolution.md)
-  - [Objective](https://maven.apache.org/what-is-maven.html#mavens-objectives)
-  -	[Architecture](https://maven.apache.org/guides/introduction/introduction-to-the-pom.html)
+  - [Objective](what-is-maven/Objectives.md)
+  -	[Architecture](what-is-maven/Architecture.md)
 * How Maven Works? 
   - Internally how maven works.
   -	Dependency Management
