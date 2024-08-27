@@ -3,9 +3,9 @@
 ## CASE STUDY BASE FAST TRACK HANDSON LEARNING OF KEY MAVEN DEEP FEATURE | 2 HOURS LIVE WORKSHOP
 #### Content 
 * What is Maven? 
-  - Evolution
-  - Objective
-  -	Architecture
+  - [Evolution](https://maven.apache.org/background/history-of-maven.html)
+  - [Objective](https://maven.apache.org/what-is-maven.html#mavens-objectives)
+  -	[Architecture](https://maven.apache.org/guides/introduction/introduction-to-the-pom.html)
 * How Maven Works? 
   - Internally how maven works.
   -	Dependency Management
